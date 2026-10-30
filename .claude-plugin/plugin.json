@@ -1,0 +1,1 @@
+{ "name": "cloud-log-to-mac", "version": "0.1.0", "description": "クラウドセッションの各ターンをMacのagentic-solution/logs/cloud/raw/へ追記する", "license": "MIT" }

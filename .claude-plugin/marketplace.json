@@ -1,0 +1,5 @@
+{
+  "name": "cloud-log-to-mac",
+  "owner": { "name": "YuyaTakahashi" },
+  "plugins": [{ "name": "cloud-log-to-mac", "source": "./" }]
+}
